@@ -1,1 +1,44 @@
 
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    color: #0f172a;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #2563eb;
+    margin-top: 40px;
+}
+
+.hero {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.project-card {
+    background: white;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
